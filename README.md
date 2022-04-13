@@ -20,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronrss&show_icons=true&locale=en&layout=compact" alt="aaronrss" /></p>
 
+<a href="https://app.daily.dev/aaronrss"><img src="https://api.daily.dev/devcards/d43e93b30a1543868bb592e8caa49c0f.png?r=8d0" width="400" alt="Aaron's Dev Card"/></a>
