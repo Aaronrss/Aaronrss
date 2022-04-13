@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Rosas</h1>
 <h3 align="center">A passionate Full-stack developer from México</h3>
 
-<p align="left"> <a href="https://twitter.com/aaronrosas_" target="blank"><img src="https://img.shields.io/twitter/follow/aaronrosas_?logo=twitter&style=for-the-badge" alt="aaronrss_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aaronrss_" target="blank"><img src="https://img.shields.io/twitter/follow/aaronrss_?logo=twitter&style=for-the-badge" alt="aaronrss_" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aaronrss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aaronrss" height="30" width="40" /></a>
-<a href="https://twitter.com/aaronrosas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronrosas_" height="30" width="40" /></a>
+<a href="https://twitter.com/aaronss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronrss_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaronrosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronrosas" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aaronrss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aaronrss" height="30" width="40" /></a>
 </p>
@@ -21,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronrss&show_icons=true&locale=en&layout=compact" alt="aaronrss" /></p>
 
 <a href="https://app.daily.dev/aaronrss"><img src="https://api.daily.dev/devcards/d43e93b30a1543868bb592e8caa49c0f.png?r=8d0" width="400" alt="Aaron's Dev Card"/></a>
+
