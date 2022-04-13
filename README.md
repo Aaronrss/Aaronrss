@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Rosas</h1>
 <h3 align="center">A passionate Full-stack developer from México</h3>
 
-<p align="left"> <a href="https://twitter.com/aaronrosas_" target="blank"><img src="https://img.shields.io/twitter/follow/aaronrosas_?logo=twitter&style=for-the-badge" alt="aaronrosas_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aaronrosas_" target="blank"><img src="https://img.shields.io/twitter/follow/aaronrosas_?logo=twitter&style=for-the-badge" alt="aaronrss_" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
