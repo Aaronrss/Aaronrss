@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaron Rosas</h1>
 <h3 align="center">A passionate Full-stack developer from México</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NestJS, developing an E-Commerce solution.**
 
 - 👨‍💻 All of my projects are available at [https://aaronrss.github.io/](https://aaronrss.github.io/)
 
-- 📫 How to reach me **aaron.rosas@criptext.com**
+- 📫 How to reach me **aaron.rosas@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
