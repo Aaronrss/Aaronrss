@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Rosas</h1>
-<h3 align="center">A passionate Full-stack developer from México</h3>
+<h3 align="center">Pasionate Software Engineer from México</h3>
 
 - 🌱 I’m currently learning **NestJS, developing an E-Commerce solution.**
 
